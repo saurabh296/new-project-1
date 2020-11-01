@@ -1,0 +1,69 @@
+
+
+body {
+    background-image: url('images/Bg.png');
+    text-align: center;
+}
+   
+   .get {
+    border: 2px solid ;
+    background-color: orange;
+    width: 250px;
+    text-align: center;
+   }
+   
+   .king {
+       height: 565px;
+       width: 410px;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+       
+   }
+   .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+.king2 {
+    padding-top: 150px;
+    padding-right: 180px;
+}  
+.king3 {
+     padding-right: 180px;
+}
+.king4 {
+    width:300px;
+    background-color: #fa7602;
+    color: white;
+}
+.king5 {
+    width:300px;
+}
+.king6 {
+    color: #fa7602;
+}
+.king7 {
+    height: 430px;
+    width: 410px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.king9 {
+    height: 380px;
+    width: 410px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.hight {
+    padding-top: 100px;
+}
+.king10 {
+    text-align: left;
+}
+.phone {
+    text-align: left;;
+}
